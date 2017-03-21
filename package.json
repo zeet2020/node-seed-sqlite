@@ -1,0 +1,22 @@
+{
+  "name": "node_seed_sqlite",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "express",
+    "server"
+  ],
+  "author": "zeeshan ahmed",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.15.2",
+    "sequelize": "^3.24.3",
+    "sqlite3": "^3.1.4",
+    "underscore": "^1.8.3"
+  }
+}
