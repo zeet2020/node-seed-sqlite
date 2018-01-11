@@ -2,7 +2,8 @@
 
 node seed project or boilerplate to get started with node, sequelize and sqlite
 
-to start 
+cmd to run application 
+
 -> npm install
 
 -> npm start
